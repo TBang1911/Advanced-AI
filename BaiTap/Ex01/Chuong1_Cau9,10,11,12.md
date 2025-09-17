@@ -1,6 +1,9 @@
 ## Câu 9: LLMs có thể viết code không? Việc đó có ý nghĩa gì với việc học lập trình?
   &emsp; LLMs có thể viết code. Điển hình là các chatbox được xây dựng dựa trên các mô hình ngôn ngữ lớn như ChatGPT, Gemini,... đều có thể sinh code, dựa trên yêu cầu của người dùng.<br>
   &emsp; Việc LLMs có thể viết code, có những ảnh hưởng rất lớn đối với việc học lập trình như sữa lỗi cú pháp, tối ưu đoạn mã, sinh mã mới,.... Các mô hình có thể viết code theo nhiều ngôn ngữ, nhiều cú pháp khác nhau, tuy nhiên việc học lập trình không chỉ có viết code. Nó đòi hỏi người lập trình phải có tư duy logic, phân tích vấn đề và thiết kế giải pháp, nên mặc dù chúng ta không phủ nhận những ảnh hưởng quan trọng của LLMs trong việc học lập trình, song vẫn có những khuyến điểm mà LLMs không thể thay thế con người được.
+<br>
 
-  
-  
+## Câu 10: Khi nào học sinh được cho phép sử dụng các công cụ đó*? Hãy cho biết lý do. (* Máy tính bỏ túi; LLMs trả lời các câu hỏi, bài tập; LLMs sinh code)
+  &emsp; Theo như các trường hiện nay ở Việt Nam, học sinh được sử dụng máy tính bắt đầu từ cấp 2 (lớp 6), sau khi đã nắm vững các phép toán cơ bản như: cộng trừ nhân chia ở cấp 1, thì máy tính bỏ túi sẽ hỗ trợ cho việc tính toán nhanh hơn ở những bài toán phức tạp hơn. Tuy nhiên không thể tránh khỏi việc lạm dụng máy tính làm khả năng tính toán của học sinh bị chậm lại, ví dụ: các phép toán đơn giản như 3x2 cũng phải bấm máy tính, cho nên cần phải quán triệt lại nhận thức sử dụng máy tính của học sinh cũng như việc cho phép sử dụng máy tính của thầy cô ở bậc cấp 2 và khuyến khích hơn ở các bậc cao hơn.
+  &emsp; Về LLMs để trả lời các câu hỏi và viết luận, mô hình ngôn ngữ lớn có rất nhiều từ ngữ, dàn ý, thông tin để giải quyết các vấn đề đó; đó là lợi điểm của LLMs. Học sinh được phép sử dụng khi 
+  &emsp; Học ngôn ngữ mới, đã có tư duy lập trình, biết sử dụng LLMs để tìm tài liệu, hiểu được rằng LLMs ưu và khuyết điểm của nó.

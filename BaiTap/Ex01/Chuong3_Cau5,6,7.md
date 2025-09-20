@@ -17,7 +17,7 @@ Cột 3: 0 <br>
 Đường chéo chính: 0 <br>
 Đường chéo phụ: -2 <br>
 Heuristic: (2-1-1-2)/ 8 = -1/4 <br>
-  &emsp; Bàn cờ 2:
+  &emsp; Bàn cờ 2: <br>
 Hàng 1, 2, 3: 0
 Cột 1: 1
 Cột 2: -1

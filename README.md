@@ -1,5 +1,5 @@
 # TRÍ TUỆ NHÂN TẠO NÂNG CAO
-## Nhóm :
+## Nhóm : 7
 ## Thành viên:
 <ul>
   <li>3122410174 Thái Minh Khang </li>

@@ -4,6 +4,6 @@
 <ul>
   <li>3122410174 Thái Minh Khang </li>
   <li>3122410489 Lê Huỳnh Trúc Vy (Nhóm trưởng)</li> 
-  <li>Trần Mỹ Yên </li>
-  <li>Lê Quốc Thái </li>
+  <li>3122410495 Trần Mỹ Yên </li>
+  <li>3120410470 Lê Quốc Thái </li>
 </ul>
